@@ -69,23 +69,23 @@ How to Play:
 
 ## 📸 Screenshots 
 
--Start 
+- Start 
 
 ![image](https://github.com/user-attachments/assets/f3faa9f3-72b1-445b-a825-685dfd5fd543)
 
--Instructions
+- Instructions
 
 ![image](https://github.com/user-attachments/assets/3cf09504-a243-4de5-8ed1-82c4cd6f7019)
 
--Home 
+- Home 
 
 ![image](https://github.com/user-attachments/assets/eaf4160b-d02b-4462-b80e-052427e430dc)
 
--Best Player 
+- Best Player 
 
 ![image](https://github.com/user-attachments/assets/427a331a-a9e5-45de-98d0-253b4b5da250)
 
--Win Players 
+- Win Players 
 
 ![image](https://github.com/user-attachments/assets/04432396-6993-4ddc-addd-23260aa7dc89)
 
