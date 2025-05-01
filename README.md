@@ -45,9 +45,7 @@ The GUI handles all valid interactions with the puzzle and provides real-time vi
 
 ### 📦 How to Run
 
--Clone the repository:
-  
-   git clone https://github.com/your-username/slide-puzzle-game.git
+- Clone the repository: https://github.com/Bela2002/SlidePuzzleGame.git
 
 ---
 
